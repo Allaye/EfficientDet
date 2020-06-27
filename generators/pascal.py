@@ -41,7 +41,8 @@ voc_classes = {
     'sheep': 16,
     'sofa': 17,
     'train': 18,
-    'tvmonitor': 19
+    'tvmonitor': 19,
+    'number plate': 20
 }
 
 
